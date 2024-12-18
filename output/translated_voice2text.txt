@@ -1,0 +1,81 @@
+[0.00s -> 2.50s] Many people feel butterflies in their stomach.
+[2.50s -> 3.92s] Many people start sweating.
+[3.92s -> 6.00s] Many people experience trembling in their hands and feet.
+[6.00s -> 7.04s] It feels strange.
+[7.04s -> 9.54s] Engaging in physical exercise is visibly distinct.
+[10.00s -> 12.00s] It must be done.
+[20.00s -> 27.00s] Today, the tips or topic we will discuss is anxiety.
+[27.37s -> 32.03s] Anxiety is a very common emotion that everyone experiences.
+[32.03s -> 34.98s] Even I feel mild anxiety.
+[34.98s -> 35.83s] Because...
+[36.12s -> 46.04s] Anxiety is a common emotion, and it’s a necessary one. As a medical counselor, I wouldn’t say it should be absent; it is important to have it.
+[46.12s -> 49.16s] Why? Because without anxiety,
+[49.16s -> 52.36s] we cannot perform well.
+[52.36s -> 54.62s] This anxiety can be seen...
+[54.62s -> 63.28s] in children. For example, if there’s an exam tomorrow, they might feel a little anxious today.
+[63.28s -> 66.12s] Otherwise, they are playful.
+[66.12s -> 68.12s] Later, they study.
+[68.12s -> 69.12s] There’s anxiety in this.
+[69.12s -> 70.12s] Excessive anxiety
+[70.12s -> 72.12s] is felt by their mothers
+[72.12s -> 74.12s] and sometimes even fathers.
+[75.64s -> 83.12s] Anxiety is necessary, but the level or degree to which it exists is important.
+[83.12s -> 85.64s] It’s about how we manage that anxiety.
+[85.64s -> 89.92s] What causes this anxiety?
+[89.92s -> 92.38s] For all emotions,
+[92.38s -> 94.62s] if we understand the reason,
+[94.62s -> 95.30s] then
+[95.30s -> 97.52s] we can handle it easily.
+[97.77s -> 106.27s] Sometimes it’s biological or hereditary. If anxiety is in your genes,
+[106.27s -> 109.93s] then by default, there will be some level of anxiety.
+[110.12s -> 120.12s] Secondly, there are psychological reasons, like skill deficits, content deficits, or lack of knowledge in presentation methods.
+[120.12s -> 125.12s] You may not know what to do or how to approach tomorrow's tasks.
+[125.12s -> 127.12s] These psychological reasons could contribute to anxiety.
+[127.12s -> 130.12s] Socially, if you often
+[130.12s -> 140.12s] present yourself or try something, and if it fails once, it can create a memory that acts as a trauma later.
+[140.12s -> 144.88s] These three reasons
+[144.88s -> 146.52s] could cause anxiety.
+[146.52s -> 148.60s] If you understand these reasons,
+[148.60s -> 150.00s] it becomes easy to handle.
+[150.12s -> 152.60s] How to deal with this anxiety?
+[152.60s -> 154.56s] First,
+[154.56s -> 156.30s] preparation is key.
+[156.30s -> 158.30s] At times,
+[158.30s -> 159.74s] your brain
+[159.74s -> 160.26s] automatically
+[160.12s -> 163.06s] starts working differently.
+[163.08s -> 166.34s] Anxiety makes you act out of focus.
+[166.34s -> 168.34s] When this happens,
+[168.34s -> 170.34s] observe and face it.
+[170.12s -> 171.86s] Think positively:
+[171.86s -> 173.02s] I can face this.
+[173.02s -> 175.20s] Practicing helps.
+[175.20s -> 177.26s] Secondly,
+[177.26s -> 178.46s] preparation.
+[178.46s -> 180.08s] Prepare thoroughly.
+[180.12s -> 182.12s] This isn’t just about content preparation
+[182.12s -> 185.62s] but also about presentation preparation.
+[185.62s -> 190.12s] Identify the root causes of your anxiety and work on them.
+[190.12s -> 195.74s] Thirdly, bring a positive mindset:
+[195.74s -> 200.08s] “I can face this.”
+[200.12s -> 201.78s] Positive thoughts can help.
+[201.78s -> 205.00s] Anxiety or stress,
+[205.00s -> 206.50s] whatever it is,
+[206.50s -> 208.70s] stems from negative thinking, like
+[208.70s -> 210.14s] “I can’t do this.”
+[210.12s -> 214.44s] Changing this mindset
+[214.44s -> 218.72s] can make you capable.
+[218.72s -> 220.66s] When stress arises,
+[220.12s -> 229.12s] take a moment to pause, analyze, and manage it.
+[230.12s -> 233.12s] This way, you can handle anxiety.
+[233.12s -> 236.12s] Finally, when anxiety strikes,
+[236.12s -> 239.12s] bodily vibrations occur.
+[239.12s -> 250.26s] Symptoms manifest in the body.
+[250.12s -> 254.12s] These physical symptoms may seem uncontrollable.
+[254.12s -> 259.12s] In such situations, relaxation exercises can help.
+[260.12s -> 270.14s] Light relaxation techniques can manage the situation.
+[270.12s -> 275.34s] For example, if a tiger is in front of you,
+[275.34s -> 277.54s] your rational thinking will
+[277.54s -> 279.44s] automatically take over.
+[280.12s -> 290.20s] One prescription for everyone is to engage in physical exercise.
+[310.12s -> 311.00s] This must be done.
